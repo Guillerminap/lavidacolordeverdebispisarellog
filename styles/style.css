@@ -269,10 +269,18 @@ figure:hover{
     
 }
 
-
-
-
 /*diseño desktop*/
 @media screen and (min-with: 1200px){
     
 }
+/* efectos*/
+.box1{
+    height: 250px;
+    width: 100%;
+    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+    color: white;
+    opacity: 0.95;
+    font-size: 15px;
+    text-align: center;
+    line-height: 250px;
+    }
